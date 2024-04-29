@@ -1,4 +1,4 @@
-body {
+dbody {
     min-height: 100vh;
     display: flex;
     justify-content: center;
@@ -77,4 +77,7 @@ input[type="number"]:focus {
 
 #calculate-btn:hover {
     background-color: #45a049;
+}
+a {
+    text-decoration: none;
 }
